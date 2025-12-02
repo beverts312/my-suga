@@ -1,4 +1,4 @@
-name: storage-bucket
+name: my-bucket
 display_name: Storage
 type: storage
 description: "Provisions GCS buckets with custom access controls and automatic file upload"
